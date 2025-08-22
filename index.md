@@ -9,6 +9,6 @@ title: 'K-Real Estate Glossary'
 
 ## 용어 목록
 - [전세(Jeonse)](/terms/전세.html)
-
+- [임대사업자 등록](/terms/임대사업자-등록.html)
 ---
 업데이트: 2025-08-22
