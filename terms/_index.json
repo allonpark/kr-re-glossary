@@ -1,0 +1,224 @@
+[
+  {
+    "title": "전세(Jeonse)",
+    "slug": "jeonse",
+    "category": "임대/임차",
+    "summary": "보증금 일시 예치 후 무월세 거주"
+  },
+  {
+    "title": "월세(Monthly Rent)",
+    "slug": "monthlyrent",
+    "category": "임대/임차",
+    "summary": "보증금+월세 결합 임차"
+  },
+  {
+    "title": "반전세(Mixed Deposit+Rent)",
+    "slug": "mixeddepositrent",
+    "category": "임대/임차",
+    "summary": "보증금 일부+월세 혼합"
+  },
+  {
+    "title": "임대차보호법(Housing Lease Protection Act)",
+    "slug": "housingleaseprotectionact",
+    "category": "임대/임차",
+    "summary": "임차인 권리 보호 법률"
+  },
+  {
+    "title": "계약갱신청구권(Right to Renew)",
+    "slug": "righttorenew",
+    "category": "임대/임차",
+    "summary": "갱신 1회 요구권(요건 충족 시)"
+  },
+  {
+    "title": "전월세신고제(Lease Reporting)",
+    "slug": "leasereporting",
+    "category": "임대/임차",
+    "summary": "임대차 신고 의무"
+  },
+  {
+    "title": "전월세상한제(Rent Cap)",
+    "slug": "rentcap",
+    "category": "임대/임차",
+    "summary": "갱신 시 인상 상한"
+  },
+  {
+    "title": "임차권등기명령(Tenant’s Registration Order)",
+    "slug": "tenantsregistrationorder",
+    "category": "임대/임차",
+    "summary": "보증금 보호 위한 등기"
+  },
+  {
+    "title": "확정일자(Fixed Date)",
+    "slug": "fixeddate",
+    "category": "임대/임차",
+    "summary": "우선변제권 판단에 영향"
+  },
+  {
+    "title": "대출-LTV(Loan to Value)",
+    "slug": "loantovalue",
+    "category": "대출",
+    "summary": "담보인정비율"
+  },
+  {
+    "title": "대출-DTI(Debt to Income)",
+    "slug": "debttoincome",
+    "category": "대출",
+    "summary": "총부채상환비율"
+  },
+  {
+    "title": "대출-DSR(Debt Service Ratio)",
+    "slug": "debtserviceratio",
+    "category": "대출",
+    "summary": "총부채원리금상환비율"
+  },
+  {
+    "title": "특례보금자리론(Special Mortgage)",
+    "slug": "specialmortgage",
+    "category": "대출",
+    "summary": "정책 모기지"
+  },
+  {
+    "title": "디딤돌대출(Didimdol Loan)",
+    "slug": "didimdolloan",
+    "category": "대출",
+    "summary": "무주택 실수요 정책대출"
+  },
+  {
+    "title": "중도상환수수료(Prepayment Penalty)",
+    "slug": "prepaymentpenalty",
+    "category": "대출",
+    "summary": "조기상환 수수료"
+  },
+  {
+    "title": "만기(만기연장) 구조(Maturity/Extension)",
+    "slug": "term",
+    "category": "대출",
+    "summary": "상환 기간 및 연장"
+  },
+  {
+    "title": "취득세(Acquisition Tax)",
+    "slug": "acquisitiontax",
+    "category": "세금",
+    "summary": "취득 시 부과 지방세"
+  },
+  {
+    "title": "재산세(Property Tax)",
+    "slug": "propertytax",
+    "category": "세금",
+    "summary": "보유 기반 지방세"
+  },
+  {
+    "title": "종합부동산세(Comprehensive Holding Tax)",
+    "slug": "comprehensiveholdingtax",
+    "category": "세금",
+    "summary": "고액 보유자 국세"
+  },
+  {
+    "title": "양도소득세(Capital Gains Tax)",
+    "slug": "capitalgainstax",
+    "category": "세금",
+    "summary": "양도차익 과세"
+  },
+  {
+    "title": "1세대1주택 비과세(Primary Residence Exemption)",
+    "slug": "primaryresidenceexemption",
+    "category": "세금",
+    "summary": "요건 충족 시 비과세"
+  },
+  {
+    "title": "일시적 2주택(Temporary Two-Home)",
+    "slug": "temporarytwo-home",
+    "category": "세금",
+    "summary": "이사에 따른 한시적 특례"
+  },
+  {
+    "title": "분양권 과세(Tax on Pre-Sale Rights)",
+    "slug": "taxonpre-salerights",
+    "category": "세금",
+    "summary": "분양권·입주권 과세"
+  },
+  {
+    "title": "공시가격(Officially Assessed Value)",
+    "slug": "officiallyassessedvalue",
+    "category": "정책/제도",
+    "summary": "제도·세금 기준가격"
+  },
+  {
+    "title": "공정시장가액비율(Assessment Ratio)",
+    "slug": "assessmentratio",
+    "category": "정책/제도",
+    "summary": "세액 산정 비율"
+  },
+  {
+    "title": "실거래가 공개(Actual Transaction Disclosure)",
+    "slug": "actualtransactiondisclosure",
+    "category": "정책/제도",
+    "summary": "거래가 공개 시스템"
+  },
+  {
+    "title": "청약가점제(Lottery Scoring)",
+    "slug": "lotteryscoring",
+    "category": "정책/제도",
+    "summary": "청약 가점 체계"
+  },
+  {
+    "title": "분양가상한제(Price Cap on New Builds)",
+    "slug": "pricecaponnewbuilds",
+    "category": "정책/제도",
+    "summary": "분양가 규제"
+  },
+  {
+    "title": "전매제한(Resale Restriction)",
+    "slug": "resalerestriction",
+    "category": "정책/제도",
+    "summary": "전매 가능 시점 제한"
+  },
+  {
+    "title": "임대사업자 제도(Landlord Registration)",
+    "slug": "landlordregistration",
+    "category": "정책/제도",
+    "summary": "등록 임대사업자 규정"
+  },
+  {
+    "title": "공공분양/특공(Public Sale-Special Supply)",
+    "slug": "publicsale-specialsupply",
+    "category": "정책/제도",
+    "summary": "특별공급/공공분양"
+  },
+  {
+    "title": "재개발(Redevelopment)",
+    "slug": "redevelopment",
+    "category": "정비사업",
+    "summary": "노후 주거지 정비"
+  },
+  {
+    "title": "재건축(Reconstruction)",
+    "slug": "reconstruction",
+    "category": "정비사업",
+    "summary": "노후 공동주택 재건축"
+  },
+  {
+    "title": "안전진단(Safety Assessment)",
+    "slug": "safetyassessment",
+    "category": "정비사업",
+    "summary": "재건축 요건 판단"
+  },
+  {
+    "title": "초과이익환수제(Recapture of Excess Profit)",
+    "slug": "recaptureofexcessprofit",
+    "category": "정비사업",
+    "summary": "재건축 초과이익 환수"
+  },
+  {
+    "title": "조합/추진위(Association-Promotion Committee)",
+    "slug": "association-promotioncommittee",
+    "category": "정비사업",
+    "summary": "정비조직 구성"
+  },
+  {
+    "title": "사업시행인가/관리처분(Approvals)",
+    "slug": "approvals",
+    "category": "정비사업",
+    "summary": "인가·관리처분 절차"
+  }
+]

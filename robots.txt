@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://allonpark.github.io/kr-re-glossary/sitemap.xml
